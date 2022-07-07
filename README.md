@@ -3,7 +3,7 @@
 Repo to record the topics covered in the book "Fluent Python"
 
 ## Part 1: Data Structures
-1.
+1. The Python Data Model
 2.
 3.
 4.
